@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ERP Client Management",
+  "description": "Production-grade enterprise Client Management ERP module with detailed client directory, CRM profiles, invoicing, project tracking, timeline audit logs, document vault, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
